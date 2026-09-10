@@ -68,7 +68,7 @@ function Index() {
           <div className="relative z-10 animate-reveal">
             <p className="mb-5 flex items-center gap-3 text-xs font-semibold uppercase tracking-[.22em] text-primary"><span className="h-px w-10 bg-primary/50" /> Student · Creator · Singer</p>
             <h1 className="max-w-3xl font-display text-6xl leading-[.96] tracking-normal text-foreground sm:text-7xl lg:text-[6.25rem]">Hi, I’m<br/><span className="italic text-primary">Kavish Arora</span></h1>
-            <p className="mt-7 text-lg font-medium text-foreground/80">B.Tech Student <span className="text-lavender">◆</span> Content Creator <span className="text-peach">◆</span> Creative Thinker</p>
+            <p className="mt-7 text-lg font-medium text-foreground/80">B.Tech Student &nbsp;<span className="text-lavender">◆</span> Creative Thinker</p>
             <p className="mt-5 max-w-xl leading-8 text-muted-foreground">A B.Tech student at JECRC University, Alwar, passionate about singing, creativity, communication, and building meaningful digital experiences.</p>
             <div className="mt-9 flex flex-wrap gap-3">
               <Button asChild variant="portfolio" size="portfolio"><a href="#journey">Explore My Journey <ArrowDownRight /></a></Button>
